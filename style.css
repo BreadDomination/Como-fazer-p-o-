@@ -9,8 +9,8 @@ body {
     background-color: var(--cor-fundo);
     color: var(--cor-texto);
     min-height: 100vh;
-}
-
-p1{
-    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
