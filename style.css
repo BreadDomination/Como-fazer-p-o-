@@ -9,7 +9,7 @@ body {
     background-color: var(--cor-fundo);
     color: var(--cor-texto);
     min-height: 100vh;
-    display-listitem;
+    display: block;
 }
 
 h1{
