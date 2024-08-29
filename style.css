@@ -9,9 +9,8 @@ body {
     background-color: var(--cor-fundo);
     color: var(--cor-texto);
     min-height: 100vh;
-    text-align: left;
 }
 
-h1{
-    color: var(--cor-destaque);
+p1{
+    text-align: left;
 }
